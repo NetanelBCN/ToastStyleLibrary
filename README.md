@@ -68,7 +68,7 @@ Insert gif or link to demo
 
 ## Authors
 
-- [@netanelbcn](https://github.com/NetanelBCN)
+- [@NetanelBCN](https://github.com/NetanelBCN)
 
 
 
