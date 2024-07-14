@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!-- res/drawable/toast_background_4.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#9B59B6" />
+    <corners android:radius="50dp" />
+</shape>
+
+
+
+
+

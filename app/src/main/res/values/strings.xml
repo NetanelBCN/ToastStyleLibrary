@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StyleToastLibrary</string>
+    <string name="raise_toast">raise toast</string>
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       android:layout_marginTop="70dp"
+       android:padding="16dp"
+       android:gravity="center">
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Bottom Toasts"
+          android:textSize="18sp"
+          android:textStyle="bold"
+          android:layout_marginBottom="8dp"/>
+
+
+
+      <Button
+          android:id="@+id/btnDangerToast"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Danger Toast" />
+
+      <Button
+          android:id="@+id/btnPrimaryToast"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Primary Toast" />
+
+      <Button
+          android:id="@+id/btnSuccessToast"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Success Toast" />
+
+      <Button
+          android:id="@+id/btnVioletToast"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Violet Toast" />
+
+      <Button
+          android:id="@+id/btnWarningToast"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Warning Toast" />
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Top Toasts"
+          android:textSize="18sp"
+          android:textStyle="bold"
+          android:layout_marginTop="16dp"
+          android:layout_marginBottom="8dp"/>
+
+
+
+      <Button
+          android:id="@+id/btnTopDangerToast"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Top Danger Toast" />
+
+      <Button
+          android:id="@+id/btnTopPrimaryToast"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Top Primary Toast" />
+
+      <Button
+          android:id="@+id/btnTopSuccessToast"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Top Success Toast" />
+
+      <Button
+          android:id="@+id/btnTopVioletToast"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Top Violet Toast" />
+
+      <Button
+          android:id="@+id/btnTopWarningToast"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Top Warning Toast" />
+
+   </LinearLayout>
+</ScrollView>
