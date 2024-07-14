@@ -59,3 +59,16 @@ Step 1. Add it in your root build.gradle at the end of repositories:
 ToastStyler.showToast(Context context, String message , ToastStyler.ToastStyle enumStyle,ToastStyler.POSITION_TOP OR ToastStyler.POSITION_BOTTOM));
 ```
 
+### Attention: Valid Toast Styles are : ToastStyler.ToastStyle -> [Danger, Primary, Success, Violet, Warning]
+
+
+## Demo
+
+Insert gif or link to demo
+
+## Authors
+
+- [@netanelbcn](https://github.com/NetanelBCN)
+
+
+
