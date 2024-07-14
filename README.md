@@ -64,11 +64,18 @@ ToastStyler.showToast(Context context, String message , ToastStyler.ToastStyle e
 
 ## Demo
 
-Insert gif or link to demo
+
+
+https://github.com/user-attachments/assets/528d963c-72d0-42ca-800e-919f77d71234
+
+
 
 ## Authors
 
-- [@NetanelBCN](https://github.com/NetanelBCN)
+- [@Netanel Boris Cohen Niazov](https://github.com/NetanelBCN)
 
 
+## License
+
+Copyright (c) 2024 Netanel Boris Cohen Niazov 
 
