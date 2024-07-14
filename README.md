@@ -40,7 +40,7 @@ Step 1. Add it in your root build.gradle at the end of repositories:
 		repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
 		repositories {
 			mavenCentral()
-			maven { url 'https://jitpack.io' }
+			maven {  url =  uri ("https://jitpack.io")' }
 		}
 	}
 ```
@@ -48,6 +48,6 @@ Step 1. Add it in your root build.gradle at the end of repositories:
 
 ```
     dependencies {
-	        implementation 'com.github.NetanelBCN:ToastStyleLibrary:Tag'
+	        implementation ("com.github.NetanelBCN:ToastStyleLibrary:1.0.0")
 	}
 ```
