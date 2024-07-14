@@ -51,3 +51,11 @@ Step 1. Add it in your root build.gradle at the end of repositories:
 	        implementation ("com.github.NetanelBCN:ToastStyleLibrary:1.0.0")
 	}
 ```
+
+
+## Usage/Examples
+
+```java
+ToastStyler.showToast(Context context, String message , ToastStyler.ToastStyle enumStyle,ToastStyler.POSITION_TOP OR ToastStyler.POSITION_BOTTOM));
+```
+
